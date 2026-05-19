@@ -55,7 +55,7 @@ ecommerce-stock-analytics/
 ```
 
 ## Author
-**Aana Jain**
+**Aana Jain,Aarushi Singh**
 Built as a beginner data analytics portfolio project covering SQL, Tableau and real-world dataset analysis.
 
 ---
